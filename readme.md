@@ -7,7 +7,7 @@ we will fix. *Other languages: [Russian](readme.ru.md)*
 # Getting started guide
 
 ## Step 1. OS and tools
-You need a [Linux](https://www.linux.org/pages/download/) operating system ( we recommend to use [Ubuntu 20.+ ver.](https://ubuntu.com/download) )  
+You need a [Linux OS](https://www.linux.org/pages/download/) operating system ( we recommend to use [Ubuntu 20.+ ver.](https://ubuntu.com/download) )  
 Tools:
 [wget](https://www.tecmint.com/install-wget-in-linux/), 
 [tar](https://www.tecmint.com/install-tar-in-centos-rhel-and-fedora/), 
